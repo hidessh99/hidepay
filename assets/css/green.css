@@ -1,0 +1,119 @@
+.bg-custom,
+.btn-custom,
+.btn-custom:hover, 
+.btn-custom:focus, 
+.btn-custom:active, 
+.btn-custom.active, 
+.btn-custom.focus,
+.btn-outline-custom:hover, 
+.btn-outline-custom:focus, 
+.btn-outline-custom:active, 
+.btn-outline-custom.active, 
+.btn-outline-custom.focus, 
+.btn-outline-custom:not(:disabled):not(.disabled):active,
+.nav-pills .nav-link.active,
+#preloader #status .spinner > div,
+.social-icon li a:hover,
+.back-to-top:hover,
+.custom-control-input:checked ~ .custom-control-label:before,
+.swiper-slider-interior .swiper-container .swiper-button-prev:hover, 
+.swiper-slider-interior .swiper-container .swiper-button-next:hover,
+.container-filter li a:hover, 
+.container-filter li a.active,
+.watch-video a .play-icon-circle,
+.play-icon i,
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span,
+.service-container.hover-bg:hover,
+.service-container:hover .number-icon .icon-2,
+.service-container:hover .number-icon .number,
+.navbar-custom .login-button {
+    background-color: #3dd598 !important;
+}
+
+.text-custom,
+.btn-outline-custom,
+.navbar-custom .navbar-nav li a:hover, 
+.navbar-custom .navbar-nav li a:active,
+.navbar-custom .navbar-nav li.active ,
+.navbar-custom .navbar-nav.menu-dark li a:hover,
+.navbar-custom .navbar-nav.menu-dark li a:active,
+.navbar-custom .navbar-nav.menu-dark li.active a,
+.nav-sticky.navbar-custom .navbar-nav li a:hover,
+.nav-sticky.navbar-custom .navbar-nav li a:active,
+.nav-sticky.navbar-custom .navbar-nav li.active a,
+.portfolio-box .work-img .overlay-work .icon i:hover,
+.portfolio-box .work-img .overlay-work .work-content .title:hover a,
+.causes-container .content a:hover,
+.features a:hover,
+.service-container:hover .icon,
+.service-container:hover .content .title,
+.service-container a:hover,
+.service-container a .title:hover,
+.blog-post .content .title:hover,
+.blog-post .content a:hover,
+.footer .footer-list li a:hover,
+.footer .footer-recent .footer-recent-content a:hover,
+.restaurant-wraper .portfolio-box .menu-content .title a:hover,
+.navbar-custom .navbar-nav li.active a  {
+    color: #3dd598 !important;
+}
+
+.btn-custom,
+.btn-custom:hover, 
+.btn-custom:focus, 
+.btn-custom:active, 
+.btn-custom.active, 
+.btn-custom.focus,
+.btn-outline-custom,
+.btn-outline-custom:hover, 
+.btn-outline-custom:focus, 
+.btn-outline-custom:active, 
+.btn-outline-custom.active, 
+.btn-outline-custom.focus, 
+.btn-outline-custom:not(:disabled):not(.disabled):active,
+.progress-box .progress .progress-value,
+.back-to-top:hover,
+.custom-control-input:checked ~ .custom-control-label:before,
+.custom-control-input:focus ~ .custom-control-label::before,
+.form-control:focus,
+.container-filter li a:hover, 
+.container-filter li a.active,
+.owl-theme .owl-controls .owl-page span,
+.service-container .number-icon .icon-2,
+.form-group .form-control:focus,
+.form-group .form-control.active,
+.subscribe .form-control:focus {
+    border-color: #3dd598 !important;
+}
+
+a.text-custom:hover {
+    color: #2ccc8c !important;
+}
+
+.btn-custom,
+.btn-outline-custom:hover, 
+.btn-outline-custom:focus, 
+.btn-outline-custom:active, 
+.btn-outline-custom.active, 
+.btn-outline-custom.focus, 
+.btn-outline-custom:not(:disabled):not(.disabled):active {
+    box-shadow: 0 3px 7px rgba(61, 213, 152, 0.5) !important;
+}
+
+.bg-gradient-overlay {
+    background: linear-gradient(135deg, #3dd598, #0062ff);
+}
+
+.btn-custom:hover, 
+.btn-custom:focus, 
+.btn-custom:active,
+.btn-custom.active, 
+.btn-custom.focus {
+    background-color: #28b77e !important;
+    border-color: #28b77e !important;
+}
+
+.progress-box .progress .progress-value:after {
+    border-top-color: #3dd598 !important;
+}
